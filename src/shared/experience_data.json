@@ -1,0 +1,52 @@
+{
+	"title": "Experience",
+	"subtitle": "Work, Internship and Volunteership",
+	"description":
+		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Shopify/Wordpress Developer",
+			"experiences": [
+				{
+					"title": "Shopify Developer",
+					"company": "Squarespace",
+					"company_url": "https://www.linkedin.com/company/squarespace/",
+					"logo_path": "0.png",
+					"duration": "2014 - Present",
+					"location": "",
+					"description":
+						"I have worked over 6 year of experience in creating and designing websites for starter e-commerce companies.",
+					"color": "#9b1578"
+				},
+				{
+					"title": "Wordpress Developer",
+					"company": "Omolashes IIC",
+					"company_url": "https://omolashes.com/",
+					"logo_path": "",
+					"duration": "Jan 2018 - Apr 2019",
+					"location": "",
+					"description":
+						"I have conducted consumer research and develop integrations to boost user interaction.",
+					"color": "#9b1578"
+				}
+			]
+		},
+		{
+			"title": "Internships",
+			"experiences": [
+				{
+					"title": "DevOps Intern",
+					"company": "Unbail-Rodamco-Westfield",
+					"company_url": "https://www.linkedin.com/company/unibail-rodamco-westfield/",
+					"logo_path": "1.png",
+					"duration": "Jun 2018 - Sep 2019",
+					"location": "Greater Los Angeles",
+					"description":
+						"I have provided innovative technology solutions that deliver a superior guest service to world class shopping centers globally.",
+					"color": "#ee3c26"
+				}				
+			]
+		}
+	]
+}
